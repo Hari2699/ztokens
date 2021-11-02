@@ -1,0 +1,8 @@
+.Container {
+    height: 8vh;
+    color: white;
+    background-color: #343a40;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

@@ -1,0 +1,21 @@
+.Container{
+    height: 85vh;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #1d1c1c;
+}
+
+.center{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
+.addNewToken{
+    max-width: 550px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
